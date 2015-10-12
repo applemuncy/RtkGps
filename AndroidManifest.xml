@@ -3,11 +3,11 @@
     package="gpsplus.rtkgps"
     android:versionCode="24"
     android:versionName="1.0 alpha 24" >
-
+<!--
     <uses-sdk
         android:minSdkVersion="14"
         android:targetSdkVersion="17" />
-
+-->
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.INTERNET" />
